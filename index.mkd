@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: ko-fi.com/ongedit
+redirect_url: https://ko-fi.com/ongedit
 ---
